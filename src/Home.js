@@ -71,7 +71,7 @@ function Home() {
   };
 
   return (
-    <Container fluid style={{ fontFamily: "cursive", width: "90%" }}>
+    <Container fluid style={{ fontFamily: "roboto", width: "90%" }}>
       <Navbar>
         <Navbar.Brand
           href="#home"
