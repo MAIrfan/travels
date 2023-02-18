@@ -20,7 +20,7 @@ const InvoicePage = ({
     drop: "",
     driver: "",
   });
-  const apiKey = "AIzaSyDSu_DyV-p3WKzxqfx9bkTHbU18AVpZUcU";
+  const apiKey = "YOURAPIKEY";
   const { placePredictions, getPlacePredictions, isPlacePredictionsLoading } =
     useGoogle({
       apiKey,
